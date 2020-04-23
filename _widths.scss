@@ -1,0 +1,92 @@
+.grw-1{ width: $gr1; }
+.grw-2{ width: $gr2; }
+.grw-3{ width: $gr3; }
+.grw-4{ width: $gr4; }
+.grw-5{ width: $gr5; }
+.grw-6{ width: $gr6; }
+.grw-7{ width: $gr7; }
+.grw-8{ width: $gr8; }
+.grw-9{ width: $gr9; }
+.grw-10{ width: $gr10; }
+.grw-11{ width: $gr11; }
+.grw-12{ width: $gr12; }
+.grw-13{ width: $gr13; }
+.grw-14{ width: $gr14; }
+.grw-15{ width: $gr15; }
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: $grbs4sm) {
+  .grw-sm-1{ width: $gr1 !important; }
+  .grw-sm-2{ width: $gr2 !important; }
+  .grw-sm-3{ width: $gr3 !important; }
+  .grw-sm-4{ width: $gr4 !important; }
+  .grw-sm-5{ width: $gr5 !important; }
+  .grw-sm-6{ width: $gr6 !important; }
+  .grw-sm-7{ width: $gr7 !important; }
+  .grw-sm-8{ width: $gr8 !important; }
+  .grw-sm-9{ width: $gr9 !important; }
+  .grw-sm-10{ width: $gr10 !important; }
+  .grw-sm-11{ width: $gr11 !important; }
+  .grw-sm-12{ width: $gr12 !important; }
+  .grw-sm-13{ width: $gr13 !important; }
+  .grw-sm-14{ width: $gr14 !important; }
+  .grw-sm-15{ width: $gr15 !important; }
+ }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: $grbs4md) {
+  .grw-md-1{ width: $gr1 !important; }
+  .grw-md-2{ width: $gr2 !important; }
+  .grw-md-3{ width: $gr3 !important; }
+  .grw-md-4{ width: $gr4 !important; }
+  .grw-md-5{ width: $gr5 !important; }
+  .grw-md-6{ width: $gr6 !important; }
+  .grw-md-7{ width: $gr7 !important; }
+  .grw-md-8{ width: $gr8 !important; }
+  .grw-md-9{ width: $gr9 !important; }
+  .grw-md-10{ width: $gr10 !important; }
+  .grw-md-11{ width: $gr11 !important; }
+  .grw-md-12{ width: $gr12 !important; }
+  .grw-md-13{ width: $gr13 !important; }
+  .grw-md-14{ width: $gr14 !important; }
+  .grw-md-15{ width: $gr15 !important; }
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: $grbs4lg) {
+  .grw-lg-1{ width: $gr1 !important; }
+  .grw-lg-2{ width: $gr2 !important; }
+  .grw-lg-3{ width: $gr3 !important; }
+  .grw-lg-4{ width: $gr4 !important; }
+  .grw-lg-5{ width: $gr5 !important; }
+  .grw-lg-6{ width: $gr6 !important; }
+  .grw-lg-7{ width: $gr7 !important; }
+  .grw-lg-8{ width: $gr8 !important; }
+  .grw-lg-9{ width: $gr9 !important; }
+  .grw-lg-10{ width: $gr10 !important; }
+  .grw-lg-11{ width: $gr11 !important; }
+  .grw-lg-12{ width: $gr12 !important; }
+  .grw-lg-13{ width: $gr13 !important; }
+  .grw-lg-14{ width: $gr14 !important; }
+  .grw-lg-15{ width: $gr15 !important; }
+ }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: $grbs4xl) { 
+  .grw-xl-1{ width: $gr1 !important; }
+  .grw-xl-2{ width: $gr2 !important; }
+  .grw-xl-3{ width: $gr3 !important; }
+  .grw-xl-4{ width: $gr4 !important; }
+  .grw-xl-5{ width: $gr5 !important; }
+  .grw-xl-6{ width: $gr6 !important; }
+  .grw-xl-7{ width: $gr7 !important; }
+  .grw-xl-8{ width: $gr8 !important; }
+  .grw-xl-9{ width: $gr9 !important; }
+  .grw-xl-10{ width: $gr10 !important; }
+  .grw-xl-11{ width: $gr11 !important; }
+  .grw-xl-12{ width: $gr12 !important; }
+  .grw-xl-13{ width: $gr13 !important; }
+  .grw-xl-14{ width: $gr14 !important; }
+  .grw-xl-15{ width: $gr15 !important; }
+}

@@ -1,0 +1,92 @@
+.grh-1{ height: $gr1; }
+.grh-2{ height: $gr2; }
+.grh-3{ height: $gr3; }
+.grh-4{ height: $gr4; }
+.grh-5{ height: $gr5; }
+.grh-6{ height: $gr6; }
+.grh-7{ height: $gr7; }
+.grh-8{ height: $gr8; }
+.grh-9{ height: $gr9; }
+.grh-10{ height: $gr10; }
+.grh-11{ height: $gr11; }
+.grh-12{ height: $gr12; }
+.grh-13{ height: $gr13; }
+.grh-14{ height: $gr14; }
+.grh-15{ height: $gr15; }
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: $grbs4sm) {
+  .grh-sm-1{ height: $gr1 !important; }
+  .grh-sm-2{ height: $gr2 !important; }
+  .grh-sm-3{ height: $gr3 !important; }
+  .grh-sm-4{ height: $gr4 !important; }
+  .grh-sm-5{ height: $gr5 !important; }
+  .grh-sm-6{ height: $gr6 !important; }
+  .grh-sm-7{ height: $gr7 !important; }
+  .grh-sm-8{ height: $gr8 !important; }
+  .grh-sm-9{ height: $gr9 !important; }
+  .grh-sm-10{ height: $gr10 !important; }
+  .grh-sm-11{ height: $gr11 !important; }
+  .grh-sm-12{ height: $gr12 !important; }
+  .grh-sm-13{ height: $gr13 !important; }
+  .grh-sm-14{ height: $gr14 !important; }
+  .grh-sm-15{ height: $gr15 !important; }
+ }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: $grbs4md) {
+  .grh-md-1{ height: $gr1 !important; }
+  .grh-md-2{ height: $gr2 !important; }
+  .grh-md-3{ height: $gr3 !important; }
+  .grh-md-4{ height: $gr4 !important; }
+  .grh-md-5{ height: $gr5 !important; }
+  .grh-md-6{ height: $gr6 !important; }
+  .grh-md-7{ height: $gr7 !important; }
+  .grh-md-8{ height: $gr8 !important; }
+  .grh-md-9{ height: $gr9 !important; }
+  .grh-md-10{ height: $gr10 !important; }
+  .grh-md-11{ height: $gr11 !important; }
+  .grh-md-12{ height: $gr12 !important; }
+  .grh-md-13{ height: $gr13 !important; }
+  .grh-md-14{ height: $gr14 !important; }
+  .grh-md-15{ height: $gr15 !important; }
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: $grbs4lg) {
+  .grh-lg-1{ height: $gr1 !important; }
+  .grh-lg-2{ height: $gr2 !important; }
+  .grh-lg-3{ height: $gr3 !important; }
+  .grh-lg-4{ height: $gr4 !important; }
+  .grh-lg-5{ height: $gr5 !important; }
+  .grh-lg-6{ height: $gr6 !important; }
+  .grh-lg-7{ height: $gr7 !important; }
+  .grh-lg-8{ height: $gr8 !important; }
+  .grh-lg-9{ height: $gr9 !important; }
+  .grh-lg-10{ height: $gr10 !important; }
+  .grh-lg-11{ height: $gr11 !important; }
+  .grh-lg-12{ height: $gr12 !important; }
+  .grh-lg-13{ height: $gr13 !important; }
+  .grh-lg-14{ height: $gr14 !important; }
+  .grh-lg-15{ height: $gr15 !important; }
+ }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: $grbs4xl) { 
+  .grh-xl-1{ height: $gr1 !important; }
+  .grh-xl-2{ height: $gr2 !important; }
+  .grh-xl-3{ height: $gr3 !important; }
+  .grh-xl-4{ height: $gr4 !important; }
+  .grh-xl-5{ height: $gr5 !important; }
+  .grh-xl-6{ height: $gr6 !important; }
+  .grh-xl-7{ height: $gr7 !important; }
+  .grh-xl-8{ height: $gr8 !important; }
+  .grh-xl-9{ height: $gr9 !important; }
+  .grh-xl-10{ height: $gr10 !important; }
+  .grh-xl-11{ height: $gr11 !important; }
+  .grh-xl-12{ height: $gr12 !important; }
+  .grh-xl-13{ height: $gr13 !important; }
+  .grh-xl-14{ height: $gr14 !important; }
+  .grh-xl-15{ height: $gr15 !important; }
+}

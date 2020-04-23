@@ -1,0 +1,317 @@
+//All
+.grp-1{ padding: $gr1; }
+.grp-2{ padding: $gr2; }
+.grp-3{ padding: $gr3; }
+.grp-4{ padding: $gr4; }
+.grp-5{ padding: $gr5; }
+.grp-6{ padding: $gr6; }
+.grp-7{ padding: $gr7; }
+.grp-8{ padding: $gr8; }
+.grp-9{ padding: $gr9; }
+.grp-10{ padding: $gr10; }
+
+//paddings Top
+.grpt-1{ padding-top: $gr1; }
+.grpt-2{ padding-top: $gr2; }
+.grpt-3{ padding-top: $gr3; }
+.grpt-4{ padding-top: $gr4; }
+.grpt-5{ padding-top: $gr5; }
+.grpt-6{ padding-top: $gr6; }
+.grpt-7{ padding-top: $gr7; }
+.grpt-8{ padding-top: $gr8; }
+.grpt-9{ padding-top: $gr9; }
+.grpt-10{ padding-top: $gr10; }
+
+
+//paddings Bottop
+.grpb-1{ padding-bottom: $gr1; }
+.grpb-2{ padding-bottom: $gr2; }
+.grpb-3{ padding-bottom: $gr3; }
+.grpb-4{ padding-bottom: $gr4; }
+.grpb-5{ padding-bottom: $gr5; }
+.grpb-6{ padding-bottom: $gr6; }
+.grpb-7{ padding-bottom: $gr7; }
+.grpb-8{ padding-bottom: $gr8; }
+.grpb-9{ padding-bottom: $gr9; }
+.grpb-10{ padding-bottom: $gr10; }
+
+
+//paddings Left
+.grpl-1{ padding-left: $gr1; }
+.grpl-2{ padding-left: $gr2; }
+.grpl-3{ padding-left: $gr3; }
+.grpl-4{ padding-left: $gr4; }
+.grpl-5{ padding-left: $gr5; }
+.grpl-6{ padding-left: $gr6; }
+.grpl-7{ padding-left: $gr7; }
+.grpl-8{ padding-left: $gr8; }
+.grpl-9{ padding-left: $gr9; }
+.grpl-10{ padding-left: $gr10; }
+
+
+//paddings Right
+.grpr-1{ padding-right: $gr1; }
+.grpr-2{ padding-right: $gr2; }
+.grpr-3{ padding-right: $gr3; }
+.grpr-4{ padding-right: $gr4; }
+.grpr-5{ padding-right: $gr5; }
+.grpr-6{ padding-right: $gr6; }
+.grpr-7{ padding-right: $gr7; }
+.grpr-8{ padding-right: $gr8; }
+.grpr-9{ padding-right: $gr9; }
+.grpr-10{ padding-right: $gr10; }
+
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: $grbs4sm) { 
+  //All
+  .grp-sm-1{ padding: $gr1 !important; }
+  .grp-sm-2{ padding: $gr2 !important; }
+  .grp-sm-3{ padding: $gr3 !important; }
+  .grp-sm-4{ padding: $gr4 !important; }
+  .grp-sm-5{ padding: $gr5 !important; }
+  .grp-sm-6{ padding: $gr6 !important; }
+  .grp-sm-7{ padding: $gr7 !important; }
+  .grp-sm-8{ padding: $gr8 !important; }
+  .grp-sm-9{ padding: $gr9 !important; }
+  .grp-sm-10{ padding: $gr10 !important; }
+
+  //paddings Top
+  .grpt-sm-1{ padding-top: $gr1 !important; }
+  .grpt-sm-2{ padding-top: $gr2 !important; }
+  .grpt-sm-3{ padding-top: $gr3 !important; }
+  .grpt-sm-4{ padding-top: $gr4 !important; }
+  .grpt-sm-5{ padding-top: $gr5 !important; }
+  .grpt-sm-6{ padding-top: $gr6 !important; }
+  .grpt-sm-7{ padding-top: $gr7 !important; }
+  .grpt-sm-8{ padding-top: $gr8 !important; }
+  .grpt-sm-9{ padding-top: $gr9 !important; }
+  .grpt-sm-10{ padding-top: $gr10 !important; }
+
+  //paddings Bottop
+  .grpb-sm-1{ padding-bottom: $gr1 !important; }
+  .grpb-sm-2{ padding-bottom: $gr2 !important; }
+  .grpb-sm-3{ padding-bottom: $gr3 !important; }
+  .grpb-sm-4{ padding-bottom: $gr4 !important; }
+  .grpb-sm-5{ padding-bottom: $gr5 !important; }
+  .grpb-sm-6{ padding-bottom: $gr6 !important; }
+  .grpb-sm-7{ padding-bottom: $gr7 !important; }
+  .grpb-sm-8{ padding-bottom: $gr8 !important; }
+  .grpb-sm-9{ padding-bottom: $gr9 !important; }
+  .grpb-sm-10{ padding-bottom: $gr10 !important; }
+
+  //paddings Left
+  .grpl-sm-1{ padding-left: $gr1 !important; }
+  .grpl-sm-2{ padding-left: $gr2 !important; }
+  .grpl-sm-3{ padding-left: $gr3 !important; }
+  .grpl-sm-4{ padding-left: $gr4 !important; }
+  .grpl-sm-5{ padding-left: $gr5 !important; }
+  .grpl-sm-6{ padding-left: $gr6 !important; }
+  .grpl-sm-7{ padding-left: $gr7 !important; }
+  .grpl-sm-8{ padding-left: $gr8 !important; }
+  .grpl-sm-9{ padding-left: $gr9 !important; }
+  .grpl-sm-10{ padding-left: $gr10 !important; }
+
+  //paddings Right
+  .grpr-sm-1{ padding-right: $gr1 !important; }
+  .grpr-sm-2{ padding-right: $gr2 !important; }
+  .grpr-sm-3{ padding-right: $gr3 !important; }
+  .grpr-sm-4{ padding-right: $gr4 !important; }
+  .grpr-sm-5{ padding-right: $gr5 !important; }
+  .grpr-sm-6{ padding-right: $gr6 !important; }
+  .grpr-sm-7{ padding-right: $gr7 !important; }
+  .grpr-sm-8{ padding-right: $gr8 !important; }
+  .grpr-sm-9{ padding-right: $gr9 !important; }
+  .grpr-sm-10{ padding-right: $gr10 !important; }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: $grbs4md) { 
+   //All
+   .grp-md-1{ padding: $gr1 !important; }
+   .grp-md-2{ padding: $gr2 !important; }
+   .grp-md-3{ padding: $gr3 !important; }
+   .grp-md-4{ padding: $gr4 !important; }
+   .grp-md-5{ padding: $gr5 !important; }
+   .grp-md-6{ padding: $gr6 !important; }
+   .grp-md-7{ padding: $gr7 !important; }
+   .grp-md-8{ padding: $gr8 !important; }
+   .grp-md-9{ padding: $gr9 !important; }
+   .grp-md-10{ padding: $gr10 !important; }
+ 
+   //paddings Top
+   .grpt-md-1{ padding-top: $gr1 !important; }
+   .grpt-md-2{ padding-top: $gr2 !important; }
+   .grpt-md-3{ padding-top: $gr3 !important; }
+   .grpt-md-4{ padding-top: $gr4 !important; }
+   .grpt-md-5{ padding-top: $gr5 !important; }
+   .grpt-md-6{ padding-top: $gr6 !important; }
+   .grpt-md-7{ padding-top: $gr7 !important; }
+   .grpt-md-8{ padding-top: $gr8 !important; }
+   .grpt-md-9{ padding-top: $gr9 !important; }
+   .grpt-md-10{ padding-top: $gr10 !important; }
+ 
+   //paddings Bottop
+   .grpb-md-1{ padding-bottom: $gr1 !important; }
+   .grpb-md-2{ padding-bottom: $gr2 !important; }
+   .grpb-md-3{ padding-bottom: $gr3 !important; }
+   .grpb-md-4{ padding-bottom: $gr4 !important; }
+   .grpb-md-5{ padding-bottom: $gr5 !important; }
+   .grpb-md-6{ padding-bottom: $gr6 !important; }
+   .grpb-md-7{ padding-bottom: $gr7 !important; }
+   .grpb-md-8{ padding-bottom: $gr8 !important; }
+   .grpb-md-9{ padding-bottom: $gr9 !important; }
+   .grpb-md-10{ padding-bottom: $gr10 !important; }
+ 
+   //paddings Left
+   .grpl-md-1{ padding-left: $gr1 !important; }
+   .grpl-md-2{ padding-left: $gr2 !important; }
+   .grpl-md-3{ padding-left: $gr3 !important; }
+   .grpl-md-4{ padding-left: $gr4 !important; }
+   .grpl-md-5{ padding-left: $gr5 !important; }
+   .grpl-md-6{ padding-left: $gr6 !important; }
+   .grpl-md-7{ padding-left: $gr7 !important; }
+   .grpl-md-8{ padding-left: $gr8 !important; }
+   .grpl-md-9{ padding-left: $gr9 !important; }
+   .grpl-md-10{ padding-left: $gr10 !important; }
+ 
+   //paddings Right
+   .grpr-md-1{ padding-right: $gr1 !important; }
+   .grpr-md-2{ padding-right: $gr2 !important; }
+   .grpr-md-3{ padding-right: $gr3 !important; }
+   .grpr-md-4{ padding-right: $gr4 !important; }
+   .grpr-md-5{ padding-right: $gr5 !important; }
+   .grpr-md-6{ padding-right: $gr6 !important; }
+   .grpr-md-7{ padding-right: $gr7 !important; }
+   .grpr-md-8{ padding-right: $gr8 !important; }
+   .grpr-md-9{ padding-right: $gr9 !important; }
+   .grpr-md-10{ padding-right: $gr10 !important; }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: $grbs4lg) { 
+   //All
+   .grp-lg-1{ padding: $gr1 !important; }
+   .grp-lg-2{ padding: $gr2 !important; }
+   .grp-lg-3{ padding: $gr3 !important; }
+   .grp-lg-4{ padding: $gr4 !important; }
+   .grp-lg-5{ padding: $gr5 !important; }
+   .grp-lg-6{ padding: $gr6 !important; }
+   .grp-lg-7{ padding: $gr7 !important; }
+   .grp-lg-8{ padding: $gr8 !important; }
+   .grp-lg-9{ padding: $gr9 !important; }
+   .grp-lg-10{ padding: $gr10 !important; }
+ 
+   //paddings Top
+   .grpt-lg-1{ padding-top: $gr1 !important; }
+   .grpt-lg-2{ padding-top: $gr2 !important; }
+   .grpt-lg-3{ padding-top: $gr3 !important; }
+   .grpt-lg-4{ padding-top: $gr4 !important; }
+   .grpt-lg-5{ padding-top: $gr5 !important; }
+   .grpt-lg-6{ padding-top: $gr6 !important; }
+   .grpt-lg-7{ padding-top: $gr7 !important; }
+   .grpt-lg-8{ padding-top: $gr8 !important; }
+   .grpt-lg-9{ padding-top: $gr9 !important; }
+   .grpt-lg-10{ padding-top: $gr10 !important; }
+ 
+   //paddings Bottop
+   .grpb-lg-1{ padding-bottom: $gr1 !important; }
+   .grpb-lg-2{ padding-bottom: $gr2 !important; }
+   .grpb-lg-3{ padding-bottom: $gr3 !important; }
+   .grpb-lg-4{ padding-bottom: $gr4 !important; }
+   .grpb-lg-5{ padding-bottom: $gr5 !important; }
+   .grpb-lg-6{ padding-bottom: $gr6 !important; }
+   .grpb-lg-7{ padding-bottom: $gr7 !important; }
+   .grpb-lg-8{ padding-bottom: $gr8 !important; }
+   .grpb-lg-9{ padding-bottom: $gr9 !important; }
+   .grpb-lg-10{ padding-bottom: $gr10 !important; }
+ 
+   //paddings Left
+   .grpl-lg-1{ padding-left: $gr1 !important; }
+   .grpl-lg-2{ padding-left: $gr2 !important; }
+   .grpl-lg-3{ padding-left: $gr3 !important; }
+   .grpl-lg-4{ padding-left: $gr4 !important; }
+   .grpl-lg-5{ padding-left: $gr5 !important; }
+   .grpl-lg-6{ padding-left: $gr6 !important; }
+   .grpl-lg-7{ padding-left: $gr7 !important; }
+   .grpl-lg-8{ padding-left: $gr8 !important; }
+   .grpl-lg-9{ padding-left: $gr9 !important; }
+   .grpl-lg-10{ padding-left: $gr10 !important; }
+ 
+   //paddings Right
+   .grpr-lg-1{ padding-right: $gr1 !important; }
+   .grpr-lg-2{ padding-right: $gr2 !important; }
+   .grpr-lg-3{ padding-right: $gr3 !important; }
+   .grpr-lg-4{ padding-right: $gr4 !important; }
+   .grpr-lg-5{ padding-right: $gr5 !important; }
+   .grpr-lg-6{ padding-right: $gr6 !important; }
+   .grpr-lg-7{ padding-right: $gr7 !important; }
+   .grpr-lg-8{ padding-right: $gr8 !important; }
+   .grpr-lg-9{ padding-right: $gr9 !important; }
+   .grpr-lg-10{ padding-right: $gr10 !important; }
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: $grbs4xl) { 
+   //All
+   .grp-xl-1{ padding: $gr1 !important; }
+   .grp-xl-2{ padding: $gr2 !important; }
+   .grp-xl-3{ padding: $gr3 !important; }
+   .grp-xl-4{ padding: $gr4 !important; }
+   .grp-xl-5{ padding: $gr5 !important; }
+   .grp-xl-6{ padding: $gr6 !important; }
+   .grp-xl-7{ padding: $gr7 !important; }
+   .grp-xl-8{ padding: $gr8 !important; }
+   .grp-xl-9{ padding: $gr9 !important; }
+   .grp-xl-10{ padding: $gr10 !important; }
+ 
+   //paddings Top
+   .grpt-xl-1{ padding-top: $gr1 !important; }
+   .grpt-xl-2{ padding-top: $gr2 !important; }
+   .grpt-xl-3{ padding-top: $gr3 !important; }
+   .grpt-xl-4{ padding-top: $gr4 !important; }
+   .grpt-xl-5{ padding-top: $gr5 !important; }
+   .grpt-xl-6{ padding-top: $gr6 !important; }
+   .grpt-xl-7{ padding-top: $gr7 !important; }
+   .grpt-xl-8{ padding-top: $gr8 !important; }
+   .grpt-xl-9{ padding-top: $gr9 !important; }
+   .grpt-xl-10{ padding-top: $gr10 !important; }
+ 
+   //paddings Bottop
+   .grpb-xl-1{ padding-bottom: $gr1 !important; }
+   .grpb-xl-2{ padding-bottom: $gr2 !important; }
+   .grpb-xl-3{ padding-bottom: $gr3 !important; }
+   .grpb-xl-4{ padding-bottom: $gr4 !important; }
+   .grpb-xl-5{ padding-bottom: $gr5 !important; }
+   .grpb-xl-6{ padding-bottom: $gr6 !important; }
+   .grpb-xl-7{ padding-bottom: $gr7 !important; }
+   .grpb-xl-8{ padding-bottom: $gr8 !important; }
+   .grpb-xl-9{ padding-bottom: $gr9 !important; }
+   .grpb-xl-10{ padding-bottom: $gr10 !important; }
+ 
+   //paddings Left
+   .grpl-xl-1{ padding-left: $gr1 !important; }
+   .grpl-xl-2{ padding-left: $gr2 !important; }
+   .grpl-xl-3{ padding-left: $gr3 !important; }
+   .grpl-xl-4{ padding-left: $gr4 !important; }
+   .grpl-xl-5{ padding-left: $gr5 !important; }
+   .grpl-xl-6{ padding-left: $gr6 !important; }
+   .grpl-xl-7{ padding-left: $gr7 !important; }
+   .grpl-xl-8{ padding-left: $gr8 !important; }
+   .grpl-xl-9{ padding-left: $gr9 !important; }
+   .grpl-xl-10{ padding-left: $gr10 !important; }
+ 
+   //paddings Right
+   .grpr-xl-1{ padding-right: $gr1 !important; }
+   .grpr-xl-2{ padding-right: $gr2 !important; }
+   .grpr-xl-3{ padding-right: $gr3 !important; }
+   .grpr-xl-4{ padding-right: $gr4 !important; }
+   .grpr-xl-5{ padding-right: $gr5 !important; }
+   .grpr-xl-6{ padding-right: $gr6 !important; }
+   .grpr-xl-7{ padding-right: $gr7 !important; }
+   .grpr-xl-8{ padding-right: $gr8 !important; }
+   .grpr-xl-9{ padding-right: $gr9 !important; }
+   .grpr-xl-10{ padding-right: $gr10 !important; }
+}

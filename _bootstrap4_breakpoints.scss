@@ -1,0 +1,17 @@
+$grbs4sm:576px;
+$grbs4md:768px;
+$grbs4lg:992px;
+$grbs4xl:1200px;
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: $grbs4sm) { }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: $grbs4md) { }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: $grbs4lg) { }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: $grbs4xl) { }
